@@ -1,0 +1,6 @@
+C:\Users\d.morzhakov\source\repos\Rebus\Messages\bin\Debug\Messages.dll
+C:\Users\d.morzhakov\source\repos\Rebus\Messages\bin\Debug\Messages.pdb
+C:\Users\d.morzhakov\source\repos\Rebus\Messages\obj\Debug\Messages.csprojAssemblyReference.cache
+C:\Users\d.morzhakov\source\repos\Rebus\Messages\obj\Debug\Messages.csproj.CoreCompileInputs.cache
+C:\Users\d.morzhakov\source\repos\Rebus\Messages\obj\Debug\Messages.dll
+C:\Users\d.morzhakov\source\repos\Rebus\Messages\obj\Debug\Messages.pdb
